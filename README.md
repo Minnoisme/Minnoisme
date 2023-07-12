@@ -3,7 +3,7 @@
 #### My technical interests ...
 Software tools & techniques, programming language and testing
 #### My projects about ...
-Selenium Java, Appium Java
+Java, Selenium Java, Appium Java
 - Find my projects on ... [github.com/Minnoisme](https://github.com/Minnoisme)
 - Personal interest - Learn anything that comes on my way!
 
